@@ -1,3 +1,2 @@
 # Projeto
-Executar no terminal "python app.py"
-Aparecerá um link, basta clicar.
+Executar o arquivo "iniciar_sistema.bat", que está dentro da pasta compactada.
